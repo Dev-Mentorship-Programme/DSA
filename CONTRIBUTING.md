@@ -10,7 +10,7 @@ Here is a step-by-step method on how to add your solutions.
 - Copy the repository using HTTPS, under "HTTPS", or an SSH key, or using GitHub CLI, <br> `git clone https://github.com/YOUR-USERNAME/DSA`.
 - Create a new branch to work on! Branch from `main` and checkout to the new branch.
 - Check for the folder of the concept you are solving, each concept folder has seperate folders for each language.
-- If your programming language is not included in the folder, create one for it using the format; `Java`.
+- If your programming language is not included in the folder, create one for it using the format; `java`.
 - Create a new file using the problem name like the below format depending on your programming language:
 
 `plus-one-sam.cs` or `plus-one-sam.js`
@@ -39,7 +39,7 @@ If you spot a problem with the docs, [search if an issue already exists](https:/
 
 #### Solve an issue
 
-Scan through our [existing issues](https://github.com/Nomar-Startup/nomar-api/issues) to find one that interests you. You can narrow down the search using `labels` as filters. See [Labels](/contributing/how-to-use-labels.md) for more information. As a general rule, we don’t assign issues to anyone. If you find an issue to work on, you are welcome to open a PR with a fix.
+Scan through our [existing issues](https://github.com/Dev-Mentorship-Programme/DSA/issues) to find one that interests you. You can narrow down the search using `labels` as filters. See [Labels](/how-to-use-labels.md) for more information. As a general rule, we don’t assign issues to anyone. If you find an issue to work on, you are welcome to open a PR with a fix.
 
 #### Make changes locally
 
