@@ -1,4 +1,4 @@
-# Datastructures and Algorithm
+# Data Structures and Algorithms
 
 
 Welcome to the Dev Mentorship Algorithms and Datastructures series repo! This is used to track the developers in the community learning various algorithms and data structure concepts. 
@@ -13,7 +13,7 @@ You can use this repo as a self-serve learning platform to help you in preparing
 
 You're starting at the right place! This file contains general resources and links to pages on specific concepts. 
 
-For each concept, you find resources and practice problems on the concept. There are also resources that addresses multiple concepts.
+For each concept, you find resources and practice problems on the concept. Some resources address multiple concepts.
 
 You also find solutions to the practice problems solved by others in the community.
 
@@ -23,15 +23,15 @@ You also find solutions to the practice problems solved by others in the communi
   
 ## **How To Contribute**
 
-We are encouraging you to solve the practice problems after learning through each concept and also send us a pull request of your working solution in any language.
+We'd like to encourage you to solve the practice problems after learning each concept and then send us a pull request with your working solution in any language.
 
-If you also solved an interesting problem related to any concept, or you find an helpful resource, feel free to send us a pull request of it. 
+If you also solved an interesting problem related to any concept, or you found a helpful resource, feel free to send us a pull request of it. 
 
-If you've never contributed to open-source before, let this be your first contribution! [Here's a step by step reference](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/) to contributing.
+If you've never contributed to open-source before, let this be your first contribution! [Here's a step-by-step reference](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/) to contributing.
 
-After that, you can check the guidelines on hpw to add your solutions [here](./CONTRIBUTING.md) to the series
+After that, you can check the guidelines on how to add your solutions [here](./CONTRIBUTING.md) to the series
 
-If you are a more advanced coder, we would welcome your help reviewing PRs of code solutions and provide helpful feedback on best practices.
+If you are a more advanced coder, we would welcome your help reviewing PRs of code solutions and providing helpful feedback on best practices.
   
 
  <br>
