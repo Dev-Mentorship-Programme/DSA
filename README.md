@@ -49,7 +49,8 @@ If you are a more advanced coder, we would welcome your help reviewing PRs of co
 ## Concepts
 
 - [Getting Started](/CONTRIBUTING.md)
-- [Strings & Arrays](https://github.com/Dev-Mentorship-Programme/DSA/tree/main/strings-and-arrays)
+- [Strings](https://github.com/Dev-Mentorship-Programme/DSA/tree/main/strings)
+- [Arrays](https://github.com/Dev-Mentorship-Programme/DSA/tree/main/arrays)
 
   <br>
   <br>
