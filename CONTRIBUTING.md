@@ -11,9 +11,10 @@ Here is a step-by-step method on how to add your solutions.
 - Create a new branch to work on! Branch from `main` and checkout to the new branch.
 - Check for the folder of the concept you are solving, each concept folder has seperate folders for each language.
 - If your programming language is not included in the folder, create one for it using the format; `java`.
-- Create a new file using the problem name like the below format depending on your programming language:
+- If a problem you want to contribute does not exist, create an issue for it using this [guide](#create-a-new-issue) and the maintainers would review it.
+- Create a new file using the problem name if it does not exist like the below format depending on your programming language:
 
-`plus-one-sam.cs` or `plus-one-sam.js`
+`plus-one.cs` or `plus-one.js`
 <br>
 - Implement your practise solution, comment your code.
 - Follow the code style of the project, including indentation.
@@ -23,6 +24,14 @@ Here is a step-by-step method on how to add your solutions.
 ```
 /*
 *@author sam
+*/
+```
+- If you are contributing to an already existing issue or problem, add your username as contributor to the file below the author's name like the below
+
+```
+/*
+* @author @sam
+* @contributors @user2, @user3
 */
 ```
 

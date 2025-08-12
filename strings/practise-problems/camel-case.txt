@@ -1,0 +1,12 @@
+Camel case of a given sentence
+
+Given a sentence having lowercase characters, the task is to convert it to Camel Case. 
+In Camel Case, words are joined without spaces, the first word keeps its original case, and each subsequent word starts with an uppercase letter.
+
+Examples: 
+
+Input: "i got intern at geeksforgeeks"
+Output: "iGotInternAtGeeksforgeeks"
+
+Input: "here comes the garden"
+Output: "hereComesTheGarden"
