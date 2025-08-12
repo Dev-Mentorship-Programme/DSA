@@ -60,7 +60,7 @@ Scan through our [existing issues](https://github.com/Dev-Mentorship-Programme/D
 - Using the command line:
   - [Clone the repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) so that you can make your changes without affecting the original project until you're ready to merge them.
 
-3. Create a working branch and start with your changes!
+2. Create a working branch and start with your changes!
 
 ### Commit your update
 
