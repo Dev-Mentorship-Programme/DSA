@@ -1,4 +1,7 @@
-/*author: @Barkty
+/*
+    author: @Barkty
+
+    Given an array arr[], the task is to print every alternate element of the array starting from the first element.
 */
 
 class PrintAlternative {

@@ -1,4 +1,9 @@
-/* author: @Barkty */
+/* author: @Barkty 
+    Given an array arr[] of size n, the task is to find all the Leaders in the array. 
+    An element is a Leader if it is greater than or equal to all the elements to its right side.
+
+    Note: The rightmost element is always a leader.
+*/
 
 class ArrayLeaders {
   /*
